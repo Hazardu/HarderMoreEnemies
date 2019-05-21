@@ -1,0 +1,18 @@
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\HarderMoreEnemies\Mod\HarderMoreEnemies.dll
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\HarderMoreEnemies\Mod\HarderMoreEnemies.pdb
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\HarderMoreEnemies\obj\x86\Release\HarderMoreEnemies.csprojResolveAssemblyReference.cache
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\HarderMoreEnemies\obj\x86\Release\HarderMoreEnemies.csproj.CoreCompileInputs.cache
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\HarderMoreEnemies\obj\x86\Release\HarderMoreEnemies.dll
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\HarderMoreEnemies\obj\x86\Release\HarderMoreEnemies.pdb
+D:\modapis\mapi broken\projects\TheForest\HarderMoreEnemies\Mod\HarderMoreEnemies.dll
+D:\modapis\mapi broken\projects\TheForest\HarderMoreEnemies\Mod\HarderMoreEnemies.pdb
+D:\modapis\mapi broken\projects\TheForest\HarderMoreEnemies\obj\x86\Release\HarderMoreEnemies.csprojAssemblyReference.cache
+D:\modapis\mapi broken\projects\TheForest\HarderMoreEnemies\obj\x86\Release\HarderMoreEnemies.csproj.CoreCompileInputs.cache
+D:\modapis\mapi broken\projects\TheForest\HarderMoreEnemies\obj\x86\Release\HarderMoreEnemies.dll
+D:\modapis\mapi broken\projects\TheForest\HarderMoreEnemies\obj\x86\Release\HarderMoreEnemies.pdb
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\HarderMoreEnemies\Mod\HarderMoreEnemies.dll
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\HarderMoreEnemies\Mod\HarderMoreEnemies.pdb
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\HarderMoreEnemies\obj\x86\Release\HarderMoreEnemies.csprojAssemblyReference.cache
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\HarderMoreEnemies\obj\x86\Release\HarderMoreEnemies.csproj.CoreCompileInputs.cache
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\HarderMoreEnemies\obj\x86\Release\HarderMoreEnemies.dll
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\HarderMoreEnemies\obj\x86\Release\HarderMoreEnemies.pdb
