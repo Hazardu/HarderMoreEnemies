@@ -6,11 +6,11 @@ namespace HarderMoreEnemies
 {
 
 
-    internal class MoreEnemiesMain : spawnMutants
+    public class MoreEnemiesMain : spawnMutants
     {
         protected override void checkSpawn()
         {
-            GameSettings.Ai.Refresh();
+            //GameSettings.Ai.Refresh();
             if (! enabled)
             {
                 return;
@@ -96,23 +96,22 @@ namespace HarderMoreEnemies
             }
         }
     }
-    class MaxMutantIncrease : mutantController
-    {
-        protected override void Start()
-        {
-            base.Start();
-            maxActiveMutants *= 10;
-            currentMaxActiveMutants *= 10;
-            maxActiveSpawners *= 10;
-        }
-        protected override void setDayConditions()
-        {
-            base.setDayConditions();
-            maxActiveMutants *= 10;
-            currentMaxActiveMutants *= 10;
-            maxActiveSpawners *= 10;
-            
-        }
-    }
+    //class MaxMutantIncrease : mutantController
+    //{
+    //    protected override void Start()
+    //    {
+    //        base.Start();
+    //        maxActiveMutants *= 10;
+    //        currentMaxActiveMutants *= 10;
+    //        maxActiveSpawners *= 10;
+    //    }
+    //    protected override void setDayConditions()
+    //    {
+    //        base.setDayConditions();
+    //        maxActiveMutants *= 10;
+    //        currentMaxActiveMutants *= 10;
+    //        maxActiveSpawners *= 10;
+    //    }
+    //}
 }
 
